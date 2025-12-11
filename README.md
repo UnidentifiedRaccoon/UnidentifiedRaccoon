@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20to%20Racoon%20place!&fontSize=50&fontAlignY=35&desc=Senior%20Frontend%20Engineer&descSize=20&descAlignY=55&animation=twinkling)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ahoy,%20I'm%20Yuriy!&fontSize=50&fontAlignY=35&desc=Let's%20get%20to%20know%20each%20other%20a%20bit&descSize=20&descAlignY=55&animation=twinkling)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=58&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=From+idea+to+production)](https://git.io/typing-svg)
 
@@ -75,12 +75,7 @@ const mob = {
 ## GitHub статистика
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=UnidentifiedRaccoon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnidentifiedRaccoon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnidentifiedRaccoon&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="github-metrics.svg" />
 </div>
 
 <br/>

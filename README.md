@@ -10,7 +10,7 @@
 
 ## О себе
 
-```json
+```js
 const mob = {
   "name": "Yuriy",
   "role": "Senior Frontend Engineer",
@@ -142,7 +142,7 @@ const mob = {
 </td>
 <td width="50%">
 
-<h3 align="center">README-9</h3>
+<h3 align="center">README</h3>
 <p align="center">
   <a href="https://github.com/UnidentifiedRaccoon/957741-readme-9">
     <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />

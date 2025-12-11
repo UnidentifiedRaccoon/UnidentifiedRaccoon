@@ -8,7 +8,7 @@
 
 <br/>
 
-## О себе
+## About me
 
 ```js
 const mob = {
@@ -30,7 +30,7 @@ const mob = {
 
 <br/>
 
-## Технологический стек
+## Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@ const mob = {
 
 <br/>
 
-## GitHub статистика
+## GitHub stats
 
 <div align="center">
   <img src="github-metrics.svg" />
@@ -80,7 +80,7 @@ const mob = {
 
 <br/>
 
-## Избранные проекты
+## Favorite projects
 
 <div align="center">
 <table>
@@ -157,7 +157,7 @@ const mob = {
 
 <br/>
 
-## Связаться со мной
+## Contact me
 
 <div align="center">
 

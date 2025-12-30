@@ -16,7 +16,7 @@ const mob = {
   "role": "Senior Frontend Engineer",
   "experience": "4+ years",
   "domains": ["adTech", "eduTech"],
-  "location": "Russia",
+  "location": "Russia, Moscow",
   "languages": ["Russian (native)", "English (B2)"],
   "status": "remote/relocate-ready"
 }

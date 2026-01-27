@@ -26,9 +26,8 @@ const mob = {
 
 💻 Веду цикл разработки от гипотезы до релиза, применяя продуктовое мышление. Практикую data-driven UX. Проектирую фронтенд, бекенд и telegram приложения, настраиваю CI/CD пайплайны, развертываю облачную инфраструктуру. 
 
-📚 Провожу наймовые секции. Выполняю функции ментора. Английский B2, remote/relocate‑ready.
+🌍 Английский B2, remote/relocate‑ready.
 
-<br/>
 
 ## Stack
 
@@ -54,6 +53,13 @@ const mob = {
 </div>
 
 <br/>
+
+
+## Off the Clock
+
+📚 Провожу наймовые секции. Преподаю в [HTML Academy](https://htmlacademy.ru/profile/unidentifiedraccoon), люблю решать задачки на leetcode и codewars. 
+
+[![Codewars](https://www.codewars.com/users/UnidentifiedRaccoon/badges/large)](https://www.codewars.com/users/UnidentifiedRaccoon/badges/large)
 
 ## GitHub stats
 

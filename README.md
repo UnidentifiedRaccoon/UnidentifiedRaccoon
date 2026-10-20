@@ -1,167 +1,68 @@
-<div align="center">
+# Yuri Posledov
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ahoy,%20I'm%20Yuriy!&fontSize=50&fontAlignY=35&desc=Let's%20get%20to%20know%20each%20other%20a%20bit&descSize=20&descAlignY=55&animation=twinkling)
+**Senior Frontend Developer at Yandex · React & TypeScript**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=58&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=From+idea+to+production)](https://git.io/typing-svg)
+I build rich-text editors, AI interfaces and content tools, taking features from research and technical design through A/B testing, release and support. I have been building web applications since 2021 and joined Yandex in February 2023, progressing from intern to my current Senior role.
 
-</div>
+Moscow, Russia (UTC+3) · **24 years old** (October 2026) · Russian native / English B2  
+Open to remote opportunities; relocation to Singapore, Japan, Thailand or the UAE is also an option with employer support.
 
-<br/>
+## Selected projects
 
-## About me
+### [FinHealth](https://github.com/UnidentifiedRaccoon/FinHealth-demo) — financial wellbeing platform
 
-```js
-const mob = {
-  "name": "Yuriy",
-  "role": "Senior Frontend Engineer",
-  "experience": "4+ years",
-  "domains": ["adTech", "eduTech"],
-  "location": "Russia, Moscow",
-  "languages": ["Russian (native)", "English (B2)"],
-  "status": "remote/relocate-ready"
-}
-```
+A React application combining learning programs, interactive exercises and a financial planner with scenarios, budgets, goals and plan-versus-actual tracking. Exercises run in sandboxed iframes and communicate through a versioned `postMessage` protocol with schema validation.
 
-💼 Senior Frontend Engineer с 4+ годами опыта (adTech, eduTech). 
+**Status:** in development. The public repository contains a demo build with synthetic data; input resets on refresh. Working source code and development history are not included in this demo repository.
 
-💻 Веду цикл разработки от гипотезы до релиза, применяя продуктовое мышление. Практикую data-driven UX. Проектирую фронтенд, бекенд и telegram приложения, настраиваю CI/CD пайплайны, развертываю облачную инфраструктуру. 
+### [NCFG](https://github.com/UnidentifiedRaccoon/ncfg) — website and online assessments
 
-🌍 Английский B2, remote/relocate‑ready.
+Built the site, CMS and assessment flows: resumable progress, server-side scoring, emailed results and CSV exports. Migrated production to a Cloud.ru VM and set up Docker delivery through GitHub Actions, including backup checks, service readiness checks and rollback.
 
+**Stack:** React, Next.js, TypeScript, Strapi, PostgreSQL, S3, Docker, GitHub Actions.  
+**Status:** live at [ncfg.ru](https://ncfg.ru/), with ongoing maintenance.
 
-## Stack
+### Therapy OS — workspace for psychologists and clients
 
-<div align="center">
+A SaaS MVP for keeping context between sessions: a specialist reviews and approves draft notes, assigns actions and prepares the next-session brief from permitted history. Clients control which responses they share.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,nest,css,sass,html,redux,git,docker,webpack,vite&theme=dark&perline=7)](https://skillicons.dev)
+Built with **Next.js, React and TypeScript**, a shared UI library and Storybook. The project includes separate specialist, client and owner workflows and explicit access boundaries.
+
+**Status:** MVP demonstrated with synthetic data; source repository is private. AI assists with drafts that require specialist review. Clinical outcomes and real-world product adoption have not been established.
+
+## Work at Yandex
+
+On PromoPages, which serves around 2 million reader visits a day and 2,500 weekly editor users:
+
+- Migrated all editor block types from Draft.js to Lexical and built version comparison, restoration and block-level rollback.
+- Delivered the frontend for image-to-video generation, averaging 7,000+ generations a month. A/B tests showed up to 5% higher article completion and up to 20% higher ad CTR relative to control.
+- Built streaming AI chat and integrated a YandexGPT editing assistant.
+- Reduced the JavaScript bundle by 34%; separately reduced server-rendered HTML by 30–60%.
+
+## Toolkit
+
+**Frontend:** React, TypeScript, JavaScript, Next.js, Redux, HTML, CSS, Lexical, Draft.js, WebSocket.  
+**Backend and delivery:** Node.js, NestJS, Strapi, PostgreSQL, Docker, GitHub Actions, S3.  
+**Quality:** Playwright, Jest, Storybook, code review and A/B testing.
+
+## Mentoring
+
+React course mentor at HTML Academy, December 2025–March 2026. Mentor at Yandex's summer School of Interface Development in 2025. I also conduct hiring interviews.
 
 <details>
-<summary>📋 Full stack details</summary>
+<summary>Earlier projects</summary>
 
-<br/>
-
-| Category | Technologies |
-|:--------:|:-------------|
-| **Frontend** | TypeScript, JavaScript, React, Vue.js, Redux |
-| **Backend** | Node.js, NestJS, Fastify, grammY |
-| **Styling** | CSS3, SASS, HTML5 |
-| **Tools** | Git, Nx, Webpack, Vite, Docker, Yandex Cloud |
-| **Testing** | Playwright |
+- [PDS Consultant](https://github.com/UnidentifiedRaccoon/pds-consultant) — Telegram consultation bot with calculators and PDF reports.
+- [Messenger](https://github.com/UnidentifiedRaccoon/messanger) — SPA with a custom store, routing and WebSocket.
+- [Toxin](https://github.com/UnidentifiedRaccoon/Toxin_project) — apartment search interface and reusable UI components.
+- [Microservice architecture coursework](https://github.com/UnidentifiedRaccoon/957741-readme-9) — Node.js backend project.
 
 </details>
 
-</div>
+## Contact
 
-<br/>
+- Email: [yura.posledov@yandex.ru](mailto:yura.posledov@yandex.ru)
+- Alternative email: [yura.posledov@gmail.com](mailto:yura.posledov@gmail.com)
+- Telegram: [@RocketRaccoon_89P13](https://t.me/RocketRaccoon_89P13)
+- Phone: [+7 989 509-93-43](tel:+79895099343)
 
-
-## Off the Clock
-
-📚 Провожу наймовые секции. Преподаю в [HTML Academy](https://htmlacademy.ru/profile/unidentifiedraccoon), люблю решать задачки на leetcode и codewars. 
-
-[![Codewars](https://www.codewars.com/users/UnidentifiedRaccoon/badges/large)](https://www.codewars.com/users/UnidentifiedRaccoon/badges/large)
-
-## GitHub stats
-
-<div align="center">
-  <img src="github-metrics.svg" />
-</div>
-
-<br/>
-
-## Favorite projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">PDS Consultant</h3>
-<p align="center">
-  <a href="https://github.com/UnidentifiedRaccoon/pds-consultant">
-    <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-<p align="center">Telegram бот-консультант по Программе долгосрочных сбережений. Калькулятор взносов, FSM-диалоги, PDF-отчеты.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/grammY-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">Messenger</h3>
-<p align="center">
-  <a href="https://github.com/UnidentifiedRaccoon/messanger">
-    <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-<p align="center">SPA мессенджер с собственной компонентной архитектурой. Кастомный Store, роутинг, WebSocket.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">Toxin Project</h3>
-<p align="center">
-  <a href="https://github.com/UnidentifiedRaccoon/Toxin_project">
-    <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-<p align="center">Веб-сервис для подбора апартаментов. UI-kit компонентов, BEM-архитектура, интерактивные формы.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">README</h3>
-<p align="center">
-  <a href="https://github.com/UnidentifiedRaccoon/957741-readme-9">
-    <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-<p align="center">Проект по проектированию микросервисов от HTML Academy. REST API, работа с БД, Node.js backend.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## Contact me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/RocketRaccoon_89P13)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yura.posledov@yandex.ru)
-</div>
-
-<br/>
-
-<div align="center">
-
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
-  <img src="https://komarev.com/ghpvc/?username=UnidentifiedRaccoon&color=58a6ff&style=flat-square&label=Profile+Views" />
-
-  *"The best code is no code at all"* — Jeff Atwood
-
-</div>

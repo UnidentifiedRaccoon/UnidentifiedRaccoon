@@ -16,12 +16,12 @@
 ```js
 const mob = {
   name: "Yuri Posledov",
-  role: "Senior Frontend Developer @ Yandex",
+  role: "Senior Frontend Developer",
   experience: "Web development since 2021",
   age: 24, // October 2026
   domains: ["adTech", "eduTech"],
-  location: "Moscow, Russia · UTC+3",
-  languages: ["Russian (native)", "English (B2)"],
+  location: "Almaty, Kazakhstan · UTC+5",
+  languages: ["Russian", "English (B2)"],
   status: "Remote first · open to relocation"
 };
 ```
@@ -218,12 +218,12 @@ const mob = {
 ```js
 const mob = {
   name: "Yuri Posledov",
-  role: "Senior Frontend Developer @ Yandex",
+  role: "Senior Frontend Developer",
   experience: "Web development since 2021",
   age: 24, // October 2026
   domains: ["adTech", "eduTech"],
-  location: "Moscow, Russia · UTC+3",
-  languages: ["Russian (native)", "English (B2)"],
+  location: "Almaty, Kazakhstan · UTC+5",
+  languages: ["Russian", "English (B2)"],
   status: "Remote first · open to relocation"
 };
 ```
